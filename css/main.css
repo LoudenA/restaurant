@@ -1,0 +1,135 @@
+/*** sectioning elements ***/
+
+body {
+  background-color: #ffcce9;
+
+}
+
+header {
+
+}
+
+main {
+
+}
+
+footer {
+  font-family: 'Lobster', cursive;
+
+}
+
+nav {
+  background-color: #ffa0d7;
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+
+h1 {
+
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Lobster', cursive;
+
+
+}
+
+h3 {
+  font-family: 'Lobster', cursive;
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+  font-family: 'Lobster', cursive;
+  font-size: 14px;
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+font-family: 'Lobster', cursive;
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+  font-family: 'Lobster', cursive;
+  color: #54260e;
+  text-decoration: none;
+  font-size: 30px;
+
+}
+
+a:visited {
+  font-family: 'Lobster', cursive;
+  text-decoration: none;
+  color:#54260e;
+}
+
+a:hover {
+  font-family: 'Lobster', cursive;
+}
+
+a:active {
+
+}
